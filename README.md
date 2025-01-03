@@ -260,6 +260,9 @@ These methodological choices ensured a balance between accuracy, interpretabilit
 <img width="682" alt="Screenshot 2025-01-03 at 4 56 03 PM" src="https://github.com/user-attachments/assets/8f2037eb-5fc6-49b9-a903-1e44b48fe99c" />
 
 
+<img width="530" alt="Screenshot 2025-01-03 at 5 09 24 PM" src="https://github.com/user-attachments/assets/4fe20d4b-8143-44d6-b959-888698d95c71" />
+
+
 ### Key Insights:
 - **High-Volume Stations**: `Engine 10/Truck 2` and `Engine 13/Truck 10` consistently handle the highest incidents.
 - **Proposed Reallocation**: Moving hazardous condition units (e.g., `E17`) to stations closer to incident hotspots (`Engine 2`) could improve response efficiency.
