@@ -123,12 +123,12 @@ Key findings during EDA included:
 - **Incident Type by Time of Day**: EMS incidents peaked between 4 PM and 6 PM, aligning with commuting hours.
 
 **Visualization Tools**:  
-- **[Map1: Average Response Time by ZIP Code](Map1_Average_Response_Time_and_Incident_Analysis_by_ZIP_2019-2024.html)** 
+- **Map1: Average Response Time by ZIP Code (Screenshot)** 
 <img width="1568" alt="Screenshot 2025-01-03 at 4 02 49 PM" src="https://github.com/user-attachments/assets/1edffcef-8b42-4cb9-9cc2-22924f1774ea" />
 
 <img width="1570" alt="Screenshot 2025-01-03 at 4 03 01 PM" src="https://github.com/user-attachments/assets/88e35e5d-a838-4783-a210-457401078619" />
 
-- **[Map2: Incident Type Distribution and Fire Station Workload](Map2_Incident_Type_Distribution_and_Fire_Station_Workload_2019-2024.html)**  
+- **Map2: Incident Type Distribution and Fire Station Workload (Screenshot)**  
 <img width="1569" alt="Screenshot 2025-01-03 at 4 03 59 PM" src="https://github.com/user-attachments/assets/f9be8564-4b81-4f84-9e85-9ce4e02e9e44" />
 
 
