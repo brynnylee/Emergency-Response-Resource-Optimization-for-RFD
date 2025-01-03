@@ -1,6 +1,6 @@
 # Emergency Response & Resource Optimization for City of Rochester Fire Department
 
-**Note**: The dataset and code files used in this repository cannot be shared publicly as they are confidential government assets.  
+❗️**Notice**: The dataset and code files associated with this project are classified as confidential government assets and cannot be publicly disclosed.
 
 
 ## *Enhancing Efficiency and Strategic Resource Allocation Through Data Science*  
