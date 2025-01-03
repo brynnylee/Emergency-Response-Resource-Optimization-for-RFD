@@ -1,11 +1,14 @@
-# 🚒 Emergency Response & Resource Optimization for City of Rochester Fire Department
+# Emergency Response & Resource Optimization for City of Rochester Fire Department
+
+**Note**: The dataset and code files used in this repository cannot be shared publicly as they are confidential government assets.  
+
 
 ## *Enhancing Efficiency and Strategic Resource Allocation Through Data Science*  
 *Project conducted for the City of Rochester Fire Department (RFD) using historical data analysis, predictive modeling, and geospatial insights to improve emergency response capabilities.*
 
 ---
 
-## 📑 **Table of Contents**
+##  **Table of Contents**
 1. [Introduction](#1-introduction)
 2. [Problem Statement](#2-problem-statement)
 3. [Key Concepts and Background](#3-key-concepts-and-background)
