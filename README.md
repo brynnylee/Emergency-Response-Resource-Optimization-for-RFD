@@ -256,11 +256,10 @@ These methodological choices ensured a balance between accuracy, interpretabilit
 
 ## 5. Results & Deliverables  
 
-## Monthly Incident Counts Forecast Across RFD Stations (2024-2034)
+## Few Examples: Monthly Incident Counts Forecast Across RFD Stations (2024-2034)
 <img width="682" alt="Screenshot 2025-01-03 at 4 56 03 PM" src="https://github.com/user-attachments/assets/8f2037eb-5fc6-49b9-a903-1e44b48fe99c" />
 
 
-<img width="530" alt="Screenshot 2025-01-03 at 5 09 24 PM" src="https://github.com/user-attachments/assets/4fe20d4b-8143-44d6-b959-888698d95c71" />
 <img width="670" alt="Screenshot 2025-01-03 at 9 22 10 PM" src="https://github.com/user-attachments/assets/82af7b3c-cfa4-4134-8985-994285eef14e" />
 
 
