@@ -275,9 +275,15 @@ A $400,000 initiative modeled after Seattle's Health One program:
 ---
 
 ## 6. Interactive Maps  
-**See the below html files from the repository:**
+**Check out the HTML files in the repository below to try!**
 - Map1_Average_Response_Time_and_Incident_Analysis_by_ZIP_2019-2024.html
+![Preview GIF](https://github.com/brynnylee/Emergency-Response-Resource-Optimization-for-RFD/blob/05b416f311746e9d00a1a4450eae61b5bc224d97/map1.gif)
+
+  
 - Map2_Incident_Type_Distribution_and_Fire_Station_Workload_2019-2024.html
+![Preview GIF](https://github.com/brynnylee/Emergency-Response-Resource-Optimization-for-RFD/blob/05b416f311746e9d00a1a4450eae61b5bc224d97/map2.gif)
+
+
 ---
 
 ## 7. Conclusion & Future Work  
