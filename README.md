@@ -261,6 +261,7 @@ These methodological choices ensured a balance between accuracy, interpretabilit
 
 
 <img width="530" alt="Screenshot 2025-01-03 at 5 09 24 PM" src="https://github.com/user-attachments/assets/4fe20d4b-8143-44d6-b959-888698d95c71" />
+<img width="670" alt="Screenshot 2025-01-03 at 9 22 10 PM" src="https://github.com/user-attachments/assets/82af7b3c-cfa4-4134-8985-994285eef14e" />
 
 
 ### Key Insights:
